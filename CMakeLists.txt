@@ -8,3 +8,4 @@ find_package(OpenCV REQUIRED
 add_subdirectory(mission0)
 add_subdirectory(mission1)
 add_subdirectory(mission2)
+add_subdirectory(mission3)
